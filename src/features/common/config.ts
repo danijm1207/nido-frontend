@@ -3,4 +3,4 @@
  * Lee la URL base desde la variable de entorno NEXT_PUBLIC_API_HOST
  */
 export const API_BASE_URL =
-  process.env.NEXT_PUBLIC_API_HOST || 'http://localhost:4000/api';
+  process.env.NEXT_PUBLIC_API_HOST || 'https://nido-backend-p62h.onrender.com/api';
